@@ -2,9 +2,10 @@
 
 Connect SDK is an open source framework that connects your mobile apps with multiple TV platforms. Because most TV platforms support a variety of protocols, Connect SDK integrates and abstracts the discovery and connectivity between all supported protocols.
 
-For more information, visit our [website](http://www.connectsdk.com/).
+For more information, visit our [website](http://www.connectsdk.com/).(OBSOLETE)
+For more information, visit our [website](https://connectsdk.readthedocs.io/).
 
-* [General information about Connect SDK](http://www.connectsdk.com/discover/)
+* [General information about Connect SDK](http://www.connectsdk.com/discover/)(OBSOLETE)
 
 ##Setup
 * Clone the [Connect-Sdk-Windows-Sampler](https://github.com/ConnectSDK/Connect-SDK-Windows-Sampler) repository
