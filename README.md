@@ -1,4 +1,5 @@
-# Connect-SDK-Windows-Sampler
+# Connect-SDK-Windows-Sampler [LG WebOS]
+
 Connect SDK is an open source framework that connects your mobile apps with multiple TV platforms. Because most TV platforms support a variety of protocols, Connect SDK integrates and abstracts the discovery and connectivity between all supported protocols.
 
 For more information, visit our [website](http://www.connectsdk.com/).
